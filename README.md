@@ -1,5 +1,6 @@
 # Repository introduction
 This repo contains manim scripts used to create videos (for personal use).
+
 Created videos should only be uploaded to ![bilibili](https://www.bilibili.com) by 歌迷就好 / Bluevect.
 
 Scripts used ![ManimGL](https://github.com/3b1b/manim) (**not the community version**) by **3Blue1Brown**.
