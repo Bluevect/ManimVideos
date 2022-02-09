@@ -10,5 +10,5 @@ Scripts used [ManimGL](https://github.com/3b1b/manim) (**not the community versi
 
 ## Script names and videos
 
-LinesSlopeTheory => [\[Manim\]\[初中\]垂直的直线斜率相乘等于-1的证明](https://www.bilibili.com/video/BV1rr4y1h7H1)
+Lines_slope_theory.py => [\[Manim\]\[初中\]垂直的直线斜率相乘等于-1的证明](https://www.bilibili.com/video/BV1rr4y1h7H1)
 
