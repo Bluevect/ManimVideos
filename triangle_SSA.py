@@ -3,7 +3,6 @@ from manimlib import *
 
 # import numpy as np
 
-
 class Subtitle(TexText):
     def __init__(self, *tex_strings: str, **kwargs):
         kwargs["font"] = "monospace"
@@ -781,4 +780,4 @@ class ShowQuestionScene(Scene):
         self.current_subtitle = Subtitle("讨论钝角三角形的情况")
         self.play(Write(self.current_subtitle))
 
-        # Abandoned temporaraily...
+        # Abandoned temporarily...
