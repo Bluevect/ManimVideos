@@ -1,4 +1,10 @@
-/temp/
-/output/
+# IDE
 /.idea
-/test.py
+
+# Manim outputs
+/output
+/temp
+/2022/output/
+/2022/temp/
+/2024/output/
+/2024/temp/
